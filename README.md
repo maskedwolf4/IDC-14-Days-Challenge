@@ -1,4 +1,4 @@
-# IDC-21-Days-Challenge
+# IDC-14-Days-Challenge
 This Repo is for submission for IDC 21 Days Challenge Submission 
 
 The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/introduction/) [CodeBasics](https://codebasics.io/) [IndianDataClub](https://www.indiandataclub.com/)
