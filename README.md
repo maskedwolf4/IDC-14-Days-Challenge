@@ -3,10 +3,22 @@ This Repo is for submission for IDC 21 Days Challenge Submission
 
 The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/introduction/) [CodeBasics](https://codebasics.io/) [IndianDataClub](https://www.indiandataclub.com/)
 
-# Day 1 
-Explored about Databricks and its architecture, comparison with other platforms and real life use cases
+# Phase 1
 
-Created first notebook and ran PySpark Commands  
+## Day 1 
+### Learn:
+
+- Why Databricks vs Pandas/Hadoop?
+- Lakehouse architecture basics
+- Databricks workspace structure
+- Industry use cases (Netflix, Shell, Comcast)
+
+### Tasks:
+
+1. Create Databricks Community Edition account
+2. Navigate Workspace, Compute, Data Explorer
+3. Create first notebook
+4. Run basic PySpark commands
 
 ![Home Page](assets/home.png)
 **HomePage**
@@ -20,4 +32,29 @@ Created first notebook and ran PySpark Commands
 ![Notebook](assets/notebook.png)
 **NoteBook**
 
+## Day 2
+Explored about Apache Spark Fundamentals
+
+### Learn:
+
+- Spark architecture (driver, executors, DAG)
+- DataFrames vs RDDs
+- Lazy evaluation
+- Notebook magic commands (`%sql`, `%python`, `%fs`)
+
+### 🛠️ Tasks:
+
+1. Upload sample e-commerce CSV
+2. Read data into DataFrame
+3. Perform basic operations: select, filter, groupBy, orderBy
+4. Export results
+
+![Loading Data](assets/loading.png)
+**Loading Data**
+
+![Operations](assets/operations.png)
+**Basic Operations**
+
+![Apache Spark Docs](assets/pysparkdocs.png)
+**Apache Spark Docs**
 
