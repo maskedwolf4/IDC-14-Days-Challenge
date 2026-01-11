@@ -33,7 +33,7 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 **NoteBook**
 
 ## Day 2
-Explored about Apache Spark Fundamentals
+### Explored about Apache Spark Fundamentals
 
 ### Learn:
 
@@ -58,3 +58,25 @@ Explored about Apache Spark Fundamentals
 ![Apache Spark Docs](assets/pysparkdocs.png)
 **Apache Spark Docs**
 
+# Day 3
+### PySpark Transformations Deep Dive**
+
+### Learn:
+
+- PySpark vs Pandas comparison
+- Joins (inner, left, right, outer)
+- Window functions (running totals, rankings)
+- User-Defined Functions (UDFs)
+
+### 🛠️ Tasks:
+
+1. Load full e-commerce dataset
+2. Perform complex joins
+3. Calculate running totals with window functions
+4. Create derived features
+
+![Revenue](assets/revenue.png)
+
+![WindowFunction](assets/udf.png)
+
+![UDF](assets/udf.png)
