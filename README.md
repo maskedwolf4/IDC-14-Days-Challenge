@@ -68,6 +68,8 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 - Window functions (running totals, rankings)
 - User-Defined Functions (UDFs)
 
+# Day 4
+### Delta Lake Introduction
 ### 🛠️ Tasks:
 
 1. Load full e-commerce dataset
@@ -80,3 +82,24 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 ![WindowFunction](assets/udf.png)
 
 ![UDF](assets/udf.png)
+
+### Learn:
+
+- What is Delta Lake?
+- ACID transactions
+- Schema enforcement
+- Delta vs Parquet
+
+### 🛠️ Tasks:
+
+1. Convert CSV to Delta format
+2. Create Delta tables (SQL and PySpark)
+3. Test schema enforcement
+4. Handle duplicate inserts
+
+
+![Delta](assets/delta.png)
+
+![Schema Enforcement](assets/schemaenforcement.png)
+
+## End of Phase 1
