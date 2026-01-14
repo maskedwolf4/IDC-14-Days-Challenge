@@ -127,3 +127,26 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 
 ![Merge](assets/Merge.png)
 **Merge**
+
+
+# Day 6
+## Medallion Architecture
+### Learn:
+
+- Bronze (raw) → Silver (cleaned) → Gold (aggregated)
+- Best practices for each layer
+- Incremental processing patterns
+
+### 🛠️ Tasks:
+
+1. Design 3-layer architecture
+2. Build Bronze: raw ingestion
+3. Build Silver: cleaning & validation
+4. Build Gold: business aggregates
+
+
+![Bronze and Silver](assets/B&S.png)
+**Bronze and Silver**
+
+![Gold](assets/Gold.png)
+**Gold**
