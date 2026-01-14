@@ -3,7 +3,7 @@ This Repo is for submission for IDC 21 Days Challenge Submission
 
 The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/introduction/) [CodeBasics](https://codebasics.io/) [IndianDataClub](https://www.indiandataclub.com/)
 
-# Phase 1
+# Phase 1 - FOUNDATION
 
 ## Day 1 
 ### Learn:
@@ -103,3 +103,27 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 ![Schema Enforcement](assets/schemaenforcement.png)
 
 ## End of Phase 1
+
+# Phase 2 -  DATA ENGINEERING
+
+# Day 5
+
+## Learn:
+
+- Time travel (version history)
+- MERGE operations (upserts)
+- OPTIMIZE & ZORDER
+- VACUUM for cleanup
+
+### 🛠️ Tasks:
+
+1. Implement incremental MERGE
+2. Query historical versions
+3. Optimize tables
+4. Clean old files
+
+![Time Travel and Optimization](assets/TT&Opt.png)
+**Time Travel and Optimization**
+
+![Merge](assets/Merge.png)
+**Merge**
