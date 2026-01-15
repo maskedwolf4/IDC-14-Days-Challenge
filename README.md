@@ -150,3 +150,35 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 
 ![Gold](assets/Gold.png)
 **Gold**
+
+# Day 7
+## Workflows & Job Orchestration
+
+### Learn:
+
+- Databricks Jobs vs notebooks
+- Multi-task workflows
+- Parameters & scheduling
+- Error handling
+
+### 🛠️ Tasks:
+
+1. Add parameter widgets to notebooks
+2. Create multi-task job (Bronze→Silver→Gold)
+3. Set up dependencies
+4. Schedule execution
+
+![Notebook](assets/NBJob.png)
+**NoteBook**
+
+![Jobs](assets/Job.png)
+**Job and Tasks**
+
+![Job Running](assets/Jobruning.png)
+**Job Running**
+
+![Job Success](assets/JobSuccess.png)
+**Job Success**
+
+![Schedule](assets/Schedule.png)
+**Scheduling Job**
