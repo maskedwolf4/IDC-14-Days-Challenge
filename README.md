@@ -182,3 +182,24 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 
 ![Schedule](assets/Schedule.png)
 **Scheduling Job**
+
+
+# **DAY 8
+## Unity Catalog Governance**
+
+
+### Learn:
+
+- Catalog → Schema → Table hierarchy
+- Access control (GRANT/REVOKE)
+- Data lineage
+- Managed vs external tables
+
+### 🛠️ Tasks:
+
+1. Create catalog & schemas
+2. Register Delta tables
+3. Set up permissions
+4. Create views for controlled access
+
+![UnityCatalog](assets/unitycatalog.png)
