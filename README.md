@@ -184,7 +184,7 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 **Scheduling Job**
 
 
-# **DAY 8
+# DAY 8
 ## Unity Catalog Governance**
 
 
