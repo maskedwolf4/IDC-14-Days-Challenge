@@ -102,7 +102,9 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 
 ![Schema Enforcement](assets/schemaenforcement.png)
 
+
 ## End of Phase 1
+---
 
 # Phase 2 -  DATA ENGINEERING
 
@@ -203,3 +205,26 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 4. Create views for controlled access
 
 ![UnityCatalog](assets/unitycatalog.png)
+
+## End of Phase 3
+---
+
+## PHASE 3: ADVANCED ANALYTICS (Days 9-11)
+
+### **DAY 9 (17/01/26) – SQL Analytics & Dashboards**
+
+### Learn:
+
+- SQL warehouses
+- Complex analytical queries
+- Dashboard creation
+- Visualizations & filters
+
+### 🛠️ Tasks:
+
+1. Create SQL warehouse
+2. Write analytical queries
+3. Build dashboard: revenue trends, funnels, top products
+4. Add filters & schedule refresh
+
+![SQL](assets/SQL.png)
