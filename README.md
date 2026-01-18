@@ -211,7 +211,9 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 
 ## PHASE 3: ADVANCED ANALYTICS (Days 9-11)
 
-### **DAY 9 (17/01/26) – SQL Analytics & Dashboards**
+# DAY 9 (17/01/26) 
+
+## SQL Analytics & Dashboards
 
 ### Learn:
 
@@ -228,3 +230,24 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 4. Add filters & schedule refresh
 
 ![SQL](assets/SQL.png)
+
+
+### DAY 10 (18/01/26) 
+
+## Performance Optimization
+
+### Learn:
+
+- Query execution plans
+- Partitioning strategies
+- OPTIMIZE & ZORDER
+- Caching techniques
+
+### 🛠️ Tasks:
+
+1. Analyze query plans
+2. Partition large tables
+3. Apply ZORDER
+4. Benchmark improvements
+
+![Optimize](assets/optimize.png)
