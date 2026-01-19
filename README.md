@@ -251,3 +251,28 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 4. Benchmark improvements
 
 ![Optimize](assets/optimize.png)
+
+# DAY 11 (19/01/26) 
+
+## Statistical Analysis & ML Prep
+
+### Learn:
+
+- Descriptive statistics
+- Hypothesis testing
+- A/B test design
+- Feature engineering
+
+### 🛠️ Tasks:
+
+1. Calculate statistical summaries
+2. Test hypotheses (weekday vs weekend)
+3. Identify correlations
+4. Engineer features for ML
+
+![Feature Engineering](assets/FeatureEng.png)
+**Feature Engineering**
+
+
+![Descriptive Stats](assets/DesStats.png)
+**Descriptive Stats**
