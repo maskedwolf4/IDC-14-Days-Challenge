@@ -276,3 +276,24 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 
 ![Descriptive Stats](assets/DesStats.png)
 **Descriptive Stats**
+
+## PHASE 4: AI & ML (Days 12-14)
+
+# DAY 12 (20/01/26) 
+## MLflow Basics
+
+### Learn:
+
+- MLflow components (tracking, registry, models)
+- Experiment tracking
+- Model logging
+- MLflow UI
+
+### 🛠️ Tasks:
+
+1. Train simple regression model
+2. Log parameters, metrics, model
+3. View in MLflow UI
+4. Compare runs
+
+![Mlflow](assets/mlflow.png)
