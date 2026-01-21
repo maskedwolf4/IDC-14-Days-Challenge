@@ -297,3 +297,22 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 4. Compare runs
 
 ![Mlflow](assets/mlflow.png)
+
+# DAY 13 (21/01/26) 
+## Model Comparison & Feature Engineering
+
+### Learn:
+
+- Training multiple models
+- Hyperparameter tuning
+- Feature importance
+- Spark ML Pipelines
+
+### 🛠️ Tasks:
+
+1. Train 3 different models
+2. Compare metrics in MLflow
+3. Build Spark ML pipeline
+4. Select best model
+
+![MLFlow](assets/mlflow2.png)
