@@ -316,3 +316,27 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 4. Select best model
 
 ![MLFlow](assets/mlflow2.png)
+
+
+# DAY 14 (22/01/26)
+## AI-Powered Analytics: Genie & Mosaic AI
+
+### Learn:
+
+- Databricks Genie (natural language → SQL)
+- Mosaic AI capabilities
+- Generative AI integration
+- AI-assisted analysis
+
+### 🛠️ Tasks:
+
+1. Use Genie to query data with natural language
+2. Explore Mosaic AI features
+3. Build simple NLP task
+4. Create AI-powered insights
+
+![GenieAI](assets/genieai.png)
+
+![Trasnformer](assets/transformer.png)
+
+# End of Learning Phase
