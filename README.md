@@ -340,3 +340,16 @@ The challenge is organised by [DataBricks](https://docs.databricks.com/aws/en/in
 ![Trasnformer](assets/transformer.png)
 
 # End of Learning Phase
+
+
+# Badges and Certificate 
+
+![Day5Badge](assets/5_Badges.png) 
+
+![Day10Badge](assets/10_Badges.png) 
+
+![Day14Badge](assets/14idc.png) 
+
+![Certificate](assets/certificateidc.png)
+
+## Looking forward to upload and deploy project 
